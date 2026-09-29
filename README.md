@@ -83,6 +83,10 @@ To become a skilled AI Specialist and Web Developer by building real-world proje
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allah%20Bakhsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allahbakhshofficial313)
 
+<a href="https://www.linkedin.com/in/allahbakhshofficial" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Allah%20Bakhsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 ""GitHub" (https://img.shields.io/badge/GitHub-allahbakhshofficial313-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/allahbakhshofficial313)
 
 ---
